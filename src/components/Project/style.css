@@ -7,6 +7,14 @@
     
 }
 
+.project a {
+    color: white;
+}
+
+.project a:link {
+    text-decoration: none;
+}
+
 h2 {
     background-color: #5773a3;
     color: white;

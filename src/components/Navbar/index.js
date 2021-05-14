@@ -23,9 +23,9 @@ function NavBar() {
                     <li className="nav-item">
                     <Link className="nav-link" to="/react_portfolio/projects">Projects</Link>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                     <Link className="nav-link" to="/react_portfolio/contact">Contact</Link>
-                    </li>
+                    </li> */}
                 </ul>
                 
                 
