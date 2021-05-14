@@ -1,6 +1,10 @@
 .project {
     text-align: center;
-    border: 2px solid #282c34
+    border: 2px solid #282c34;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    
 }
 
 h2 {

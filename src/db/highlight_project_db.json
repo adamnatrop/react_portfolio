@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "title": "Employee Directory",
+    "description": "A sample Employee Directory",
+    "image": "/images/employee_directory.jpg",
+    "github": "https://github.com/adamnatrop/react_employee_directory",
+    "liveURL": "https://adamnatrop.github.io/react_employee_directory/"
+
+}

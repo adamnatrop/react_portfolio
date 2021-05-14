@@ -21,7 +21,7 @@
         "id": 3,
         "title": "Note Taker",
         "description": "Note taking app to keep all your thoughts organized and easy to get to",
-        "image": "/images/notetaker",
+        "image": "/images/notetaker.jpg",
         "github": "https://github.com/adamnatrop/note_taker",
         "liveURL": "https://lit-depths-88385.herokuapp.com/"
 
