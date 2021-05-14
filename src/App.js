@@ -13,6 +13,7 @@ import Wrapper from "./components/Wrapper";
 
 function App() {
 
+<Router basename="/repo-name" />
 
   return (
     <Router>
