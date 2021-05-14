@@ -1,0 +1,14 @@
+.project {
+    text-align: center;
+    border: 2px solid #282c34
+}
+
+h2 {
+    background-color: #5773a3;
+    color: white;
+}
+
+
+img {
+    max-width: 100%;
+}

@@ -1,0 +1,16 @@
+.about-para {
+    padding-left: 10%;
+}
+.about {
+    padding-top: 5%;
+}
+
+.picContain {
+    
+    max-width: 20%;
+}
+
+.profilePic {
+    border-radius: 50px 50px 500px 500px;
+    max-width: 100%;
+}

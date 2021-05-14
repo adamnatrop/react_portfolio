@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "DayCare CRM",
+        "description": "A simple Customer Relationship Manager to help keep your daycare business organized",
+        "image": "/images/daycarecrm.png",
+        "github": "https://github.com/adamnatrop/daycare_cms",
+        "liveURL": "https://quiet-bayou-23568.herokuapp.com/"
+
+    },
+    {
+        "id": 2,
+        "title": "US Wealth Disparity Project",
+        "description": "This project is to help bring awareness to the massive gap in wealth between our legislators and constituents",
+        "image": "/images/wealthDisparity.jpg",
+        "github": "https://github.com/adamnatrop/wealth_disparity",
+        "liveURL": "https://adamnatrop.github.io/wealth_disparity/"
+
+    },
+    {
+        "id": 3,
+        "title": "Note Taker",
+        "description": "Note taking app to keep all your thoughts organized and easy to get to",
+        "image": "/images/notetaker",
+        "github": "https://github.com/adamnatrop/note_taker",
+        "liveURL": "https://lit-depths-88385.herokuapp.com/"
+
+    },
+    {
+        "id": 4,
+        "title": "Weather Dashboard",
+        "description": "A simple weather app that lets you search by city or zipcode and displays the current plus 5 day forecast",
+        "image": "/images/weather.jpg",
+        "github": "https://github.com/adamnatrop/weather_dashboard",
+        "liveURL": "https://adamnatrop.github.io/weather_dashboard/"
+
+    },
+    {
+        "id": 5,
+        "title": "Day Planner",
+        "description": "A day planner to help keep your life organized",
+        "image": "/images/dayPlanner.jpg",
+        "github": "https://github.com/adamnatrop/calendar",
+        "liveURL": "https://adamnatrop.github.io/calendar/"
+
+    }
+]
