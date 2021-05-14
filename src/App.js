@@ -19,7 +19,7 @@ function App() {
       <div className="d-flex flex-column min-vh-100">
         <Header />
         <Wrapper>
-        <Route exact path="/react_portfolio" component={About} />
+          <Route exact path="/" component={About} />
           <Route exact path="/react_portfolio/" component={About} />
           <Route exact path="/react_portfolio/about" component={About} />
           <Route exact path="/react_portfolio/projects" component={Projects} />
