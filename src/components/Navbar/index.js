@@ -1,4 +1,5 @@
 import "./style.css";
+import { Link } from "react-router-dom";
 
 function NavBar() {
 
@@ -20,6 +21,9 @@ function NavBar() {
                     </li>
                     <li className="nav-item">
                     <a className="nav-link" href="/react_portfolio/projects">Projects</a>
+                    </li>
+                    <li className="nav-item">
+                    <Link className="nav-link" to="/react_portfolio/projects">Projects</Link>
                     </li>
                     <li className="nav-item">
                     <a className="nav-link" href="/react_portfolio/contact">Contact</a>
