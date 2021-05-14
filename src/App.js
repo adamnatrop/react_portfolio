@@ -5,7 +5,6 @@ import Footer from "./components/Footer";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
-import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 
 
@@ -21,10 +20,11 @@ function App() {
         <Header />
         
         <Wrapper>
+        <Route exact path="/react_portfolio" component={About} />
           <Route exact path="/react_portfolio/" component={About} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/projects" component={Projects} />
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/react_portfolio/about" component={About} />
+          <Route exact path="/react_portfolio/projects" component={Projects} />
+          <Route exact path="/react_portfolio/contact" component={Contact} />
         </Wrapper>
         <Footer />
       </div>
