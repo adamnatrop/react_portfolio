@@ -17,16 +17,14 @@ function NavBar() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav ml-auto ">
                     <li className="nav-item active">
-                    <a className="nav-link" href="/react_portfolio/">Home <span className="sr-only">(current)</span></a>
+                    <Link className="nav-link" to="/react_portfolio/">Home <span className="sr-only">(current)</span></Link>
                     </li>
-                    <li className="nav-item">
-                    <a className="nav-link" href="/react_portfolio/projects">Projects</a>
-                    </li>
+                    
                     <li className="nav-item">
                     <Link className="nav-link" to="/react_portfolio/projects">Projects</Link>
                     </li>
                     <li className="nav-item">
-                    <a className="nav-link" href="/react_portfolio/contact">Contact</a>
+                    <Link className="nav-link" to="/react_portfolio/contact">Contact</Link>
                     </li>
                 </ul>
                 
