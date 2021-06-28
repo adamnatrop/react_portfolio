@@ -21,7 +21,7 @@ function About() {
             </div>
             <div className="col-sm-8 pt-4 ">
               <p className="about-para">
-                Adam is a hard working professional currently running through the gauntlet that is coding bootcamp. By joining this bootcamp, Adam is learning new programing languages and skills to become an outstanding web developer. His focus, dedication and attention to detail is what you're looking for in a developer.
+              Full Stack Web Developer with video production experience. Recently earned a Certificate in Full Stack Development from the University of Minnesota Coding Bootcamp. Newly developed skills in HTML, CSS, JavaScript, React.js, and Node.js with strengths in problem-solving, creativity, storytelling, self-directed learning, and teamwork. Worked on a team of four to develop a single-page MERN app that helps users share and develop curated product lists for swapping to zero waste alternatives for everyday products. An experienced lead creative, utilizing years of video production knowledge, adapting and applying it to creative web development. Learning new technologies and focusing on solving the next puzzle drives me to create unique user experiences for meaningful web applications. 
                 <br/>
                 <br/>
                 HTML5, CSS, JavaScript, Node.js, Express, MySql, MongoDB, Mongoose, React
